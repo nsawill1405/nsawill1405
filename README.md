@@ -1,4 +1,5 @@
-Software developer based in Belfast, UK. I work across full-stack development, game development, and AI tooling.
+Software developer based in the UK. I work across full-stack development, game development, and AI tooling.
+Achieved millions of visits/plays on Roblox, released many projects out into public and have contributed to open source projects.
 
 ---
 
