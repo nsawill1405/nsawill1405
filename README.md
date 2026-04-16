@@ -1,5 +1,3 @@
-# nsawill
-
 Software developer based in Belfast, UK. I work across full-stack development, game development, and AI tooling.
 
 ---
@@ -30,14 +28,3 @@ Software developer based in Belfast, UK. I work across full-stack development, g
 
 | VS Code | Git |
 |:-------:|:---:|
-
----
-
-## Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nsawill1405&show_icons=true&theme=dark&hide_border=true&rank_icon=github" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nsawill1405&layout=compact&theme=dark&hide_border=true" height="150"/>
-</p>
-
----
