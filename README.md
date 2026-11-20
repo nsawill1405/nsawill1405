@@ -20,7 +20,7 @@ I'm a software developer in Northern Ireland working across game development, fu
 
 - Games I've built on Roblox have reached **millions of visits**.
 - I write open-source Roblox libraries and Studio plugins: version control, custom instance types, hitboxes, pathfinding, events, and playtest logging.
-- I'm building **Orion**, an AI assistant for Roblox Studio, and **CRU Studio**, a Mac-first game studio in Rust.
+- I'm building **Orion**, an AI assistant for Roblox Studio.
 - On the side I make small native macOS utilities that fix my own daily annoyances.
 
 ## Featured projects
@@ -29,7 +29,7 @@ I'm a software developer in Northern Ireland working across game development, fu
 
 | Project | What it does | Stack |
 |:--|:--|:--|
-| **RoVault** <sub>(private)</sub> | Version control for whole Roblox games from inside Studio. Syncs instances to GitHub as JSON, with pull request and terrain support. | ![Luau](https://img.shields.io/badge/Luau-00A2FF?style=flat-square&logo=roblox&logoColor=white) |
+| [**RoVault**](https://github.com/nsawill1405/RoVault) | Version control for whole Roblox games from inside Studio. Syncs instances to GitHub as JSON, with pull request and terrain support. | ![Luau](https://img.shields.io/badge/Luau-00A2FF?style=flat-square&logo=roblox&logoColor=white) |
 | [**Orion**](https://github.com/nsawill1405/Orion-Releases) | AI assistant for Roblox Studio that helps developers build games. Subscription based, with a generous free tier. | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) |
 | [**SignalX**](https://github.com/nsawill1405/SignalX) | Memory-safe event and messaging library with listener priorities, middleware, scoped cleanup, replay, and debugging tools. | ![Luau](https://img.shields.io/badge/Luau-00A2FF?style=flat-square&logo=roblox&logoColor=white) |
 | [**Hitbox-Plus**](https://github.com/nsawill1405/Hitbox-Plus) | Spatial-query hitboxes with lag-compensation hooks, hit validation helpers, and Studio debug visualisation. | ![Luau](https://img.shields.io/badge/Luau-00A2FF?style=flat-square&logo=roblox&logoColor=white) |
@@ -42,11 +42,9 @@ I'm a software developer in Northern Ireland working across game development, fu
 | Project | What it does | Stack |
 |:--|:--|:--|
 | [**recall**](https://github.com/nsawill1405/recall) | Local-first memory for Python apps and AI agents. Store, search, and manage memories in a single SQLite file. | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white) |
-| [**Shelf**](https://github.com/nsawill1405/Shelf) | Native macOS utility for the space between the clipboard and the filesystem. | ![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white) |
 | [**dustpan**](https://github.com/nsawill1405/dustpan) | Keeps your macOS Downloads folder tidy, with rules you control and full undo. | ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white) ![macOS](https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple&logoColor=white) |
 | [**Whirl**](https://github.com/nsawill1405/whirl) | Free, local-first whiteboard for diagrams and sticky notes. No account, no tracking. | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=white) |
 | [**Unity Playtest Logger**](https://github.com/nsawill1405/unity-playtest-logger) | Unity Editor window for logging bugs with annotated screenshots and console snapshots, ready to hand to a coding agent. | ![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white) ![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white) |
-| **CRU Studio** <sub>(in development)</sub> | Mac-first game studio built on Tauri, Rust, and wgpu. | ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white) ![Tauri](https://img.shields.io/badge/Tauri-24C8D8?style=flat-square&logo=tauri&logoColor=white) |
 
 ## Tech stack
 
