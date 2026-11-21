@@ -45,6 +45,7 @@ I'm a software developer in Northern Ireland working across game development, fu
 | [**dustpan**](https://github.com/nsawill1405/dustpan) | Keeps your macOS Downloads folder tidy, with rules you control and full undo. | ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white) ![macOS](https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple&logoColor=white) |
 | [**Whirl**](https://github.com/nsawill1405/whirl) | Free, local-first whiteboard for diagrams and sticky notes. No account, no tracking. | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=white) |
 | [**Unity Playtest Logger**](https://github.com/nsawill1405/unity-playtest-logger) | Unity Editor window for logging bugs with annotated screenshots and console snapshots, ready to hand to a coding agent. | ![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white) ![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white) |
+| [**Unity Debug Watch**](https://github.com/nsawill1405/unity-debug-watch) | Unity Editor window that shows live debug values for whichever object you select, including private fields and locals. | ![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white) ![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white) |
 
 ## Tech stack
 
